@@ -1,0 +1,48 @@
+* {
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+}
+body{
+    background-color: #96adc8;
+    background-image: url(fish.png);
+}
+.main {
+    width: 60vw;
+    background-color: #b4d4ee;
+    padding: 20px;
+    margin: auto;
+    border-radius: 5%;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#name {
+    width: 80%;
+    color: #145C9E;
+    font-size: 50px;
+    text-align: center;
+    padding-left: 175px;
+}
+
+#dp {
+    width: 20%;
+    border-radius: 165px;
+}
+
+.contact_details p {
+    text-align: center;
+}
+
+.heading {
+    width: 20%;
+    text-align: right;
+
+}
+
+.content {
+    width: 80%;
+    text-align: center;
+}
+
